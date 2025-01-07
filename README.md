@@ -8,19 +8,16 @@
 
 - 👋 Hi, I’m @Brize-Glace
 - 👀 Passionate about JavaScript, web development, and creative coding
-- 🌱 Currently learning: HTML, CSS, JavaScript, and exploring frameworks like Next.js
+- 🌱 Currently learning: HTML, CSS, JavaScript, and exploring frameworks like Next.js or Tailwind CSS
 - 🎧 I also compose EDM music and explore audio production
-- 🎬 Interested in multimedia production and film analysis
 
 ---
 
 ## 🛠️ Skills & Tools
 
 - Languages: JavaScript (Vanilla), HTML, CSS
-- Frameworks & Tools: Next.js, Tailwind CSS, Express.js
+- Frameworks & Tools: Tailwind CSS
 - Version Control: Git, GitHub
-- Music Production: FL Studio, Ozone
-- Photography: Nikon D7500
 
 ---
 
@@ -40,12 +37,6 @@
 
 ## 📫 Connect with Me
 
-- 📷 Instagram: [@yourhandle](https://instagram.com/yourhandle)
-- 🎧 SoundCloud: [@yourhandle](https://soundcloud.com/yourhandle)
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
-- 📧 Email: your.email@example.com
-
----
-
-⭐️ Inspired by creativity and the love for web development.
+- 📷 Instagram: [@romylemusic](https://instagram.com/romylemusic)
+- 🎧 spotify: [Romyle](https://open.spotify.com/artist/2Ct4FMJcBEb4SKkuMiYPyj)
 
