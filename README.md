@@ -7,7 +7,7 @@
 ## About Me
 
 - 👋 Hi, I’m @Brize-Glace
-- 👀 Passionate about JavaScript, web development, and creative coding
+- 👀 Passionate about JavaScript, web development
 - 🌱 Currently learning: HTML, CSS, JavaScript, and exploring frameworks like Next.js or Tailwind CSS
 - 🎧 I also compose EDM music and explore audio production
 
