@@ -24,7 +24,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Brize-Glace&show_icons=true&theme=radical" alt="Brize-Glace's GitHub stats">
+    <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=github-dark&preferLogin=false">    <img  alt="Brize-Glace's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Brize-Glace?cardType=level-alternate&theme=github-dark&preferLogin=false" />  </a>
 </p>
 
 ## 🔥 Top Languages
