@@ -26,7 +26,7 @@
 <p align="center">
     <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=github-dark&preferLogin=false">    <img  alt="Brize-Glace's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Brize-Glace?cardType=level-alternate&theme=github-dark&preferLogin=false" />  </a>
 </p>
-<p>
+<p align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Brize-Glace&theme=dark" alt="GitHub Streak" /></a>
 </p>
 
